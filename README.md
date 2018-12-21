@@ -13,10 +13,10 @@ Classification des documents du procès des groupes américains du tabac
 
 Vous trouverez ci-joints: 
 
-* un **script python** (python3) utilisé dans l'**environnement** "env". L'environnement est joint ainsi que le fichier "**requirements**.txt". Le script a été corrigé pour être conforme au style d'écriture PEP8 (score du code: *9.96* avec pylint).
+* un **script python** (python3) utilisé dans l'**environnement** "env". Le fichier "**requirements**.txt" est fournit afin de créer l'environment qui n'a pas être fourni car trop volumineux. Le script a été corrigé pour être conforme au style d'écriture PEP8 (score du code: *9.96* avec pylint).
 * un **notebook** contenant le code (adapté) du script Python et des commentaires. 
 * un **rapport** Markdown reprenant les commentaires du notebook. 
-* les **données** dans le dossier data.
+* les **données** dans le dossier data. Les données doivent être décomprésées.
 
 ## Contexte 
 
